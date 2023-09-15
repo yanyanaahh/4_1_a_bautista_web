@@ -1,0 +1,15 @@
+{
+  "name": "4_1_a_bautista_web",
+  "version": "1.0.0",
+  "description": "This is an example of a full stack web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allyanah Bautista",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/yanyanaahh/4_1_a_bautista_web.git)"
+  }
+}
