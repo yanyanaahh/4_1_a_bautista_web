@@ -4,12 +4,18 @@
   "description": "This is an example of a full stack web application",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Allyanah Bautista",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "(https://github.com/yanyanaahh/4_1_a_bautista_web.git)"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
   }
 }
